@@ -8,12 +8,19 @@ This interactive Tableau dashboard analyzes British Airways customer reviews and
 ## 🔑 Key Metrics Displayed(avg):
 
 -Overall Average Rating: 4.189/10
+
 -Cabin Staff Service: 3.280/10
+
 -Entertainment: 1.436/10
+
 -Food & Beverages: 2.381/10
+
 -Ground Service: 3.032/10
+
 -Seat Comfort: 2.870/10
+
 -Value for money: 2.778/10
+
 
 ## 🧭 Interactive Features:
 
